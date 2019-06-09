@@ -8,7 +8,7 @@ export class HighlightDirective {
 
   @HostListener('hover')
   onMouseOver() {
-    this.lightText('#34CD34');
+    this.lightText('#FF0000');
   }
 
   private lightText(action: string) {
