@@ -29,3 +29,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * CSS for styling.
 * HTML5 for webpage design.
 * Typescript for back-end.
+
+## Dependencies
+
+Angular CLI
