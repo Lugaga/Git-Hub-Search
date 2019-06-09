@@ -33,3 +33,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Dependencies
 
 Angular CLI
+
+## Support and contact details
+
+* Mobile Phone: +254 (0) 721 685 128
+* Email: maureezgaga@gmail.com
