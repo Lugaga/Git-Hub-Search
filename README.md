@@ -12,3 +12,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 | :-------------: | :-------------: | :-------------: |
 | Search for user | Input "Lugaga" | Display user: "Lugaga" |
 | Search for repository | Input "Lugaga/gamerz-paradise" | Display repository: "Lugaga/gamerz-paradise" |
+
+## Setup/Installation Requirements
+
+* Open your browser browser.
+* Load gitHub on your browser.
+* Search for Lugaga/.... repository.
+* Fork the data onto your own personal repository.
+* Clone project
+* run `'ng install'` on terminal
+* run `'ng serve'` on terminal
+* To access the live website, click on this url 
