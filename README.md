@@ -23,3 +23,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * run `'ng install'` on terminal
 * run `'ng serve'` on terminal
 * To access the live website, click on this url 
+
+## Technologies Used
+
+* CSS for styling.
+* HTML5 for webpage design.
+* Typescript for back-end.
