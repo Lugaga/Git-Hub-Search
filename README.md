@@ -38,3 +38,8 @@ Angular CLI
 
 * Mobile Phone: +254 (0) 721 685 128
 * Email: maureezgaga@gmail.com
+
+### License and Copyright details
+
+* The MIT License (MIT)
+* Copyright (c) 2019**Engineer Lugaga**
